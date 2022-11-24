@@ -27,7 +27,7 @@ a.anchor {
 
 
 #splash{
-    background-image: url(bali.jpg);
+    background-image: url(/assets/bali.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -54,7 +54,7 @@ a.anchor {
     }
 
     #portfolio{
-        background-image: url(train.jpg);
+        background-image: url(/assets/train.jpg);
         background-attachment: fixed;
         background-size: cover;
         background-position: center;
@@ -116,7 +116,7 @@ a.anchor {
       }
 
     #about{
-  background-image: url(lac2.png);
+  background-image: url(/assets/lac2.png);
   background-position: center;
   background-size: cover;
   height: 100%;
@@ -152,7 +152,7 @@ a.anchor {
 }
 
 #contact{
-    background-image: url(victoria.jpg);
+    background-image: url(/assets/victoria.jpg);
     background-position: center;
     background-size: cover;
     height: 100%;
